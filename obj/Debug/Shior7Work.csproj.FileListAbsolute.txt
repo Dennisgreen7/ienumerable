@@ -1,0 +1,14 @@
+C:\Dot.Net\C# Advanced\Shior7\Shior7Work\obj\Debug\Shior7Work.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior7\Shior7Work\obj\Debug\Shior7Work.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior7\Shior7Work\bin\Debug\Shior7Work.exe.config
+C:\Dot.Net\C# Advanced\Shior7\Shior7Work\bin\Debug\Shior7Work.exe
+C:\Dot.Net\C# Advanced\Shior7\Shior7Work\bin\Debug\Shior7Work.pdb
+C:\Dot.Net\C# Advanced\Shior7\Shior7Work\obj\Debug\Shior7Work.exe
+C:\Dot.Net\C# Advanced\Shior7\Shior7Work\obj\Debug\Shior7Work.pdb
+C:\Dot.Net\C# Advanced\Shior7\ienumerable\bin\Debug\Shior7Work.exe.config
+C:\Dot.Net\C# Advanced\Shior7\ienumerable\bin\Debug\Shior7Work.exe
+C:\Dot.Net\C# Advanced\Shior7\ienumerable\bin\Debug\Shior7Work.pdb
+C:\Dot.Net\C# Advanced\Shior7\ienumerable\obj\Debug\Shior7Work.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior7\ienumerable\obj\Debug\Shior7Work.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior7\ienumerable\obj\Debug\Shior7Work.exe
+C:\Dot.Net\C# Advanced\Shior7\ienumerable\obj\Debug\Shior7Work.pdb
